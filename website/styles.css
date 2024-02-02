@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+#quote{
+    font-size: 1.5em;
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10vh;
+    margin-bottom: auto;
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25vh;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+}
